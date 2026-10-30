@@ -1,10 +1,10 @@
 {
   "keyId": "eys-main-update-1",
-  "payload": "eyJzZXF1ZW5jZSI6MywiaXNzdWVkQXQiOjE3OTMzNDE4NjEsImV4cGlyZXNBdCI6MTc5Mzk0NjY2MSwibGF0ZXN0VmVyc2lvbiI6IjEuNC42NiIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS40LjY2IiwiZG93bmxvYWRVcmwiOiJodHRwczovL2VheXNkZC5jb20iLCJub3RlcyI6Indld2UifQ",
-  "signature": "buxSNWVx1ESiV7NZHGtLHzuC2Moh1turjAf7Uk50hndfzOL8cIb0oBhht4v-hW3KurPLxzFjOk19Slk5wqcTRQ",
-  "version": "1.4.66",
-  "latestVersion": "1.4.66",
-  "minimumSupportedVersion": "1.4.66",
-  "downloadUrl": "https://eaysdd.com",
-  "notes": "wewe"
+  "payload": "eyJzZXF1ZW5jZSI6NSwiaXNzdWVkQXQiOjE3OTMzNjQ3NTEsImV4cGlyZXNBdCI6MTc5Mzk2OTU1MSwibGF0ZXN0VmVyc2lvbiI6IjEuNC42NyIsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uIjoiMS40LjY3IiwiZG93bmxvYWRVcmwiOiJodHRwczovL2dvZmlsZS5pby9kL0dEVXNsdEZVIiwibm90ZXMiOiJcdTIwMjIgQWRkZWQgTWFuYWdlIERldmljZXMgdG8gcmVtb3ZlIG90aGVyIHJlZ2lzdGVyZWQgZGV2aWNlcyBhbmQgZnJlZSB0aGVpciBzbG90cy5cblx1MjAyMiBSZW1vdmVkIHRoZSAxNS1taW51dGUgc2xvdCB3YWl0IGFmdGVyIHN1Y2Nlc3NmdWwgb25saW5lIGxvZ291dC5cblx1MjAyMiBTdWJzY3JpcHRpb24gdGltZXJzIG5vdyBwYXVzZSBpbW1lZGlhdGVseSB3aGVuIHRoZSBsYXN0IGRldmljZSBzdWNjZXNzZnVsbHkgbG9ncyBvdXQsIG9uIHBsYW5zIHRoYXQgc3VwcG9ydCBwYXVzaW5nLlxuXHUyMDIyIEFkZGVkIEhpZGUgQWNjb3VudCBVc2VybmFtZXMgaW4gU2Vzc2lvbnMgXHUyMTkyIFByZXZpZXcgUmVmcmVzaC5cblx1MjAyMiBSZWR1Y2VkIGJhY2tncm91bmQgdXNlcm5hbWUgbG9va3VwcyB3aGlsZSB1c2VybmFtZXMgYXJlIGhpZGRlbi4ifQ",
+  "signature": "-Fe-wVaZ-cWX9IvLcHOPWBt2PRgss_j7AKvPmKVp1qAcjbd7RcfgLrolK1zy2arLD08-YOCNTfpJ3r-4QJp-PA",
+  "version": "1.4.67",
+  "latestVersion": "1.4.67",
+  "minimumSupportedVersion": "1.4.67",
+  "downloadUrl": "https://gofile.io/d/GDUsltFU",
+  "notes": "• Added Manage Devices to remove other registered devices and free their slots.\n• Removed the 15-minute slot wait after successful online logout.\n• Subscription timers now pause immediately when the last device successfully logs out, on plans that support pausing.\n• Added Hide Account Usernames in Sessions → Preview Refresh.\n• Reduced background username lookups while usernames are hidden."
 }
